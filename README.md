@@ -1,6 +1,11 @@
+ #
+ 
  👋 Merhaba ben Ecenur Çetin.
+ 
  👩🏻‍💻 Tekirdağ Namık Kemal Üniversitesi Bilgisayar Mühendisliği bölümü 3. sınıf öğrencisiyim.
+ 
  🌱 Şu an da HTML, CSS, JavaScript üzerine çalışıyor ve projeler geliştiriyorum.
+ 
  💌 ecenurcetinn@gmail.com | linkedin.com/in/ecenurcetin
 
 <!--

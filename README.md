@@ -6,7 +6,7 @@
  
  🌱 Şu an da HTML, CSS, JavaScript üzerine çalışıyor ve projeler geliştiriyorum.
  
- 💌 ecenurcetinn@gmail.com | linkedin.com/in/ecenurcetin
+ 💌 ecenurcetinn@gmail.com | www.linkedin.com/in/ecenurcetin
 
 <!--
 **ecenurcetin/ecenurcetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

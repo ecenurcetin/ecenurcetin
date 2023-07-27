@@ -2,9 +2,11 @@
  
  👋 Merhaba ben Ecenur Çetin.
  
- 👩🏻‍💻 Tekirdağ Namık Kemal Üniversitesi Bilgisayar Mühendisliği bölümü 3. sınıf öğrencisiyim.
+ 👩🏻‍💻 Bilgisayar Mühendisliği son sınıf öğrencisiyim.
  
- 🌱 Şu an da HTML, CSS, JavaScript üzerine çalışıyor ve projeler geliştiriyorum.
+ 🌱 Front-End üzerine çalışıyor ve projeler geliştiriyorum.
+
+ 📍 Şu anda Yıldız Teknik Üniversitesi Teknopark bünyesinde stajyer olarak çalışmaktayım.
  
  💌 ecenurcetinn@gmail.com 
 

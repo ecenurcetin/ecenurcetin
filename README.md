@@ -1,12 +1,12 @@
  #
  
- 👋 Merhaba ben Ecenur Çetin.
+ 👋 Hi, it's Ecenur Çetin.
  
- 👩🏻‍💻 Bilgisayar Mühendisliği son sınıf öğrencisiyim.
- 
- 🌱 Front-End üzerine çalışıyor ve projeler geliştiriyorum.
+ 👩🏻‍💻 I am a final year student in Computer Engineering.
 
- 📍 Şu anda Yıldız Teknik Üniversitesi Teknopark bünyesinde stajyer olarak çalışmaktayım.
+ 📍 I am currently working as a long-term intern at Arçelik Global.
+
+ 🌱 I am developing a graduation project on iOS application and DevOps Integration.
  
  💌 ecenurcetinn@gmail.com 
 
